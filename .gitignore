@@ -1,0 +1,9 @@
+# Python 暫存檔
+__pycache__/
+*.py[cod]
+
+# Mac 系統檔
+.DS_Store
+
+# (選項) 如果 output 檔案太大不想上傳，可以解開下面這行
+# output/
