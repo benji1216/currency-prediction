@@ -86,7 +86,8 @@ The **LSTM model**, despite a marginally higher loss, demonstrated **predictive 
 
 1.  **Clone the repository (複製專案)**
     ```bash
-    git clone [https://github.com/YourUsername/currency-prediction.git](https://github.com/YourUsername/currency-prediction.git)
+    git clone https://github.com/benji1216/currency-prediction.git
+    
     cd currency-prediction
     ```
 
